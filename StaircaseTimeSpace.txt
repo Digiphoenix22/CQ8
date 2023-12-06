@@ -1,0 +1,3 @@
+Time Complexity: The time complexity of this solution is O(n^2). This is because there are two nested loops: the outer loop runs n times, and for each iteration of the outer loop, the inner loops (for spaces and hashes) together also perform operations proportional to n.
+
+Space Complexity: The space complexity is O(1), because the space required does not grow with the input size n. Only a fixed number of variables are used regardless of the value of n.

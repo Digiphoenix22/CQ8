@@ -1,0 +1,1 @@
+Recursive Definition: The function alternatingCharactersHelper takes the string s, current index, and deletion count. It checks if the current and next characters are the same. If so, it increments the count. Then it recursively calls itself with the next index, continuing until it reaches the end of the string.
